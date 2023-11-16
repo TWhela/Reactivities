@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lkoINBIGwaj2T4k75t4N/pm/xRpStgwFWbBzp67BoL+0EMvGed2TX0NozI+sSxuhMQwdjCZgIQXymEyTtT9x6A==",
+  "dgSpecHash": "NbJZidjdO498eZuF1E2kWq8zaWfE1qdUiXE6qGoAHGx67v/DwZb0bVF90UgrBuFkKdKnqn7LdKfxuYHSx0pyIw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\Documents\\training_code\\react_app\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ThomasWhelan\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\ThomasWhelan\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\ThomasWhelan\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.14\\microsoft.data.sqlite.core.7.0.14.nupkg.sha512",
     "C:\\Users\\ThomasWhelan\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "C:\\Users\\ThomasWhelan\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.14\\microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",
