@@ -73,3 +73,5 @@ C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\reac
 C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\API\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\api\bin\Debug\net7.0\MediatR.dll
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\api\bin\Debug\net7.0\MediatR.Contracts.dll
