@@ -1377,11 +1377,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\ThomasWhelan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Application\\obj\\",
+      "outputPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ThomasWhelan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1398,11 +1398,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\Documents\\training_code\\react_app\\Reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\Documents\\training_code\\react_app\\Reactivities\\Persistence\\Persistence.csproj"
+            "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Persistence\\Persistence.csproj"
             }
           }
         }

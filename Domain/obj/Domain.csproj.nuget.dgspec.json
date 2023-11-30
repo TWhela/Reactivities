@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj": {}
+    "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ThomasWhelan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ThomasWhelan\\AppData\\Roaming\\NuGet\\NuGet.Config",
