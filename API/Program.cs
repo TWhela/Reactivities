@@ -22,7 +22,13 @@ app.UseCors("CorsPolicy");
 
 app.UseAuthorization();
 
+//added with attempts to deploy app
+app.UseDefaultFiles();
+app.UseStaticFiles();
+
 app.MapControllers();
+//app.MapHub<ChatHub>("/Chat");
+app.MapFallbackToController("Index", "Fallback");
 
 //Creating database
 using var scope = app.Services.CreateScope();

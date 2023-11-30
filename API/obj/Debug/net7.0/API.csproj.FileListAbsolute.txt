@@ -158,3 +158,4 @@ C:\Users\ThomasWhelan\Documents\Reactivities\api\obj\Debug\net7.0\refint\API.dll
 C:\Users\ThomasWhelan\Documents\Reactivities\api\obj\Debug\net7.0\API.pdb
 C:\Users\ThomasWhelan\Documents\Reactivities\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\ThomasWhelan\Documents\Reactivities\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\ThomasWhelan\Documents\Reactivities\api\bin\Debug\net7.0\API.staticwebassets.runtime.json
