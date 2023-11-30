@@ -34,6 +34,19 @@ jobs:
           name: .net-app
           path: ${{env.DOTNET_ROOT}}/myapp
 
+      - name: set up node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+        
+      - name: Install Node.js dependencies
+        run: npm install
+        working-directory: client-app
+
+      - name: Build Node.js front-end
+        run: npm run build
+        working-directory: client-app
+    
   deploy:
     runs-on: windows-latest
     needs: build
