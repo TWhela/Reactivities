@@ -4,14 +4,14 @@
     "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\Documents\\training_code\\react_app\\Reactivities\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\Documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\Documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\Documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ThomasWhelan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\Documents\\training_code\\react_app\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ThomasWhelan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\Documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\Documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -120,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

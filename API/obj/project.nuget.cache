@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ADdMnSCXHWVzoKWzGugLTj5RT8En6NNuB3NAEYLtYJtz8T8XUWrfa7cczibQsgyFw+78T4BPPtmsXjYrt1YowA==",
+  "dgSpecHash": "ZGkM0qCxyvvBiWVB4MRIn2INeV5zpKJJ2gRT5bOk70YO9/jK3Iqj8VYySmHkWar357KYOxdZGmVvKsnbjA+nFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\Documents\\training_code\\react_app\\Reactivities\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ThomasWhelan\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ThomasWhelan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

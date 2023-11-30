@@ -13,3 +13,4 @@ C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\reac
 C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\refint\Persistence.dll
 C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\Persistence.pdb
 C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Persistence\obj\Debug\net7.0\Persistence.sourcelink.json

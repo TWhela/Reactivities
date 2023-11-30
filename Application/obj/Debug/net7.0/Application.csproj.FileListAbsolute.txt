@@ -15,3 +15,4 @@ C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\reac
 C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Application\obj\Debug\net7.0\refint\Application.dll
 C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Application\obj\Debug\net7.0\Application.pdb
 C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\Application\obj\Debug\net7.0\Application.sourcelink.json

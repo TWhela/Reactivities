@@ -77,3 +77,4 @@ C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\reac
 C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\api\bin\Debug\net7.0\MediatR.Contracts.dll
 C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\api\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ThomasWhelan\OneDrive - adammatthewdigital\Documents\training_code\react_app\Reactivities\api\obj\Debug\net7.0\API.sourcelink.json

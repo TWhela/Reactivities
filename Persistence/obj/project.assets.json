@@ -1181,8 +1181,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\Documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\Documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\ThomasWhelan\\OneDrive - adammatthewdigital\\documents\\training_code\\react_app\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }
@@ -1218,7 +1218,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
