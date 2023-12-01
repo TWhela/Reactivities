@@ -240,3 +240,5 @@ C:\code\Reactivities\api\obj\Debug\net7.0\refint\API.dll
 C:\code\Reactivities\api\obj\Debug\net7.0\API.pdb
 C:\code\Reactivities\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\code\Reactivities\API\obj\Debug\net7.0\ref\API.dll
+C:\code\Reactivities\API\bin\Debug\net7.0\Npgsql.dll
+C:\code\Reactivities\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
