@@ -21,7 +21,7 @@ if (activityStore.loadingInitial) return <LoadingComponent content='Loading app'
     <>
     <NavBar/>
     <Container style={{marginTop: '7em'}}>
-      <h2>Welcome to Reactivitie</h2>
+      <h2>Welcome to Reactivities</h2>
       <ActivityDashboard />
     </Container>
     </>

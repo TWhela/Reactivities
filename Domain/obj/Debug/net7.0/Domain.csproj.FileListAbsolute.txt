@@ -22,3 +22,15 @@ C:\Users\ThomasWhelan\Documents\Reactivities\Domain\obj\Debug\net7.0\Domain.dll
 C:\Users\ThomasWhelan\Documents\Reactivities\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\Users\ThomasWhelan\Documents\Reactivities\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Users\ThomasWhelan\Documents\Reactivities\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\code\Reactivities\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\code\Reactivities\Domain\bin\Debug\net7.0\Domain.dll
+C:\code\Reactivities\Domain\bin\Debug\net7.0\Domain.pdb
+C:\code\Reactivities\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\code\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\code\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\code\Reactivities\Domain\obj\Debug\net7.0\Domain.sourcelink.json
+C:\code\Reactivities\Domain\obj\Debug\net7.0\Domain.dll
+C:\code\Reactivities\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\code\Reactivities\Domain\obj\Debug\net7.0\Domain.pdb
+C:\code\Reactivities\Domain\obj\Debug\net7.0\ref\Domain.dll

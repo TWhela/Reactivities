@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\API.csproj": {}
+    "C:\\code\\Reactivities\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\API.csproj": {
+    "C:\\code\\Reactivities\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\API.csproj",
+        "projectUniqueName": "C:\\code\\Reactivities\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\API.csproj",
+        "projectPath": "C:\\code\\Reactivities\\api\\API.csproj",
         "packagesPath": "C:\\Users\\ThomasWhelan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\obj\\",
+        "outputPath": "C:\\code\\Reactivities\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ThomasWhelan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Application\\Application.csproj"
+              "C:\\code\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "C:\\code\\Reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Application\\Application.csproj": {
+    "C:\\code\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\code\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "C:\\code\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\ThomasWhelan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Application\\obj\\",
+        "outputPath": "C:\\code\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ThomasWhelan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -106,11 +106,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\code\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\code\\Reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Persistence\\Persistence.csproj"
+              "C:\\code\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\code\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\code\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\code\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\code\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ThomasWhelan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\code\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ThomasWhelan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -209,14 +209,14 @@
         }
       }
     },
-    "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\code\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\code\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\code\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\ThomasWhelan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "C:\\code\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ThomasWhelan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -233,8 +233,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\code\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\code\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }

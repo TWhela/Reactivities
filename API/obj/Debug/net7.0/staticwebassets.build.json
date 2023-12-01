@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fa2pBPjmKxd9iLZg8NXYd3H+pTp0PviLfBwTNo76f0c=",
+  "Hash": "5S2EQq1uX5x8cn7c7aOiSl1jgAGeLSanUkiphTHfi1s=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\brand-icons-42e369dc.ttf",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\brand-icons-42e369dc.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/brand-icons-42e369dc.ttf",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\brand-icons-42e369dc.ttf"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\brand-icons-6519a15b.svg",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\brand-icons-6519a15b.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/brand-icons-6519a15b.svg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\brand-icons-6519a15b.svg"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\brand-icons-9fafd6c3.woff",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\brand-icons-9fafd6c3.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/brand-icons-9fafd6c3.woff",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\brand-icons-9fafd6c3.woff"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\brand-icons-d023c55f.eot",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\brand-icons-d023c55f.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/brand-icons-d023c55f.eot",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\brand-icons-d023c55f.eot"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\brand-icons-e7d4d534.woff2",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\brand-icons-e7d4d534.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/brand-icons-e7d4d534.woff2",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\brand-icons-e7d4d534.woff2"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\culture.jpg",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\culture.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/categoryImages/culture.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\categoryImages\\culture.jpg"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\drinks.jpg",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\drinks.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/categoryImages/drinks.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\categoryImages\\drinks.jpg"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\film.jpg",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\film.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/categoryImages/film.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\categoryImages\\film.jpg"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\food.jpg",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\food.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/categoryImages/food.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\categoryImages\\food.jpg"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\music.jpg",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\music.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/categoryImages/music.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\categoryImages\\music.jpg"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\travel.jpg",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\travel.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/categoryImages/travel.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\categoryImages\\travel.jpg"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\flags-94d5c7f1.png",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\flags-94d5c7f1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/flags-94d5c7f1.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\flags-94d5c7f1.png"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\icons-282a64fb.svg",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\icons-282a64fb.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/icons-282a64fb.svg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons-282a64fb.svg"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\icons-434466b5.woff2",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\icons-434466b5.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/icons-434466b5.woff2",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons-434466b5.woff2"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\icons-8b4e1b84.eot",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\icons-8b4e1b84.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/icons-8b4e1b84.eot",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons-8b4e1b84.eot"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\icons-95b6a484.woff",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\icons-95b6a484.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/icons-95b6a484.woff",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons-95b6a484.woff"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\icons-cb7f81f5.ttf",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\icons-cb7f81f5.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/icons-cb7f81f5.ttf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons-cb7f81f5.ttf"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\index-0ec2bbfe.css",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\index-0ec2bbfe.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/index-0ec2bbfe.css",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-0ec2bbfe.css"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\index-f42115ad.js",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\index-f42115ad.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/index-f42115ad.js",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-f42115ad.js"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\logo.png",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\logo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/logo.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\outline-icons-4537fa06.eot",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\outline-icons-4537fa06.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/outline-icons-4537fa06.eot",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\outline-icons-4537fa06.eot"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\outline-icons-4bc359c2.woff",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\outline-icons-4bc359c2.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/outline-icons-4bc359c2.woff",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\outline-icons-4bc359c2.woff"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\outline-icons-4d288344.woff2",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\outline-icons-4d288344.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/outline-icons-4d288344.woff2",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\outline-icons-4d288344.woff2"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\outline-icons-67172172.ttf",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\outline-icons-67172172.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/outline-icons-67172172.ttf",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\outline-icons-67172172.ttf"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\outline-icons-ae8fd02a.svg",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\outline-icons-ae8fd02a.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/outline-icons-ae8fd02a.svg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\outline-icons-ae8fd02a.svg"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\placeholder.png",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\placeholder.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/placeholder.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\placeholder.png"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\assets\\user.png",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\assets\\user.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/user.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\user.png"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\index.html",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\vite.svg",
+      "Identity": "C:\\code\\Reactivities\\api\\wwwroot\\vite.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ThomasWhelan\\Documents\\Reactivities\\api\\wwwroot\\",
+      "ContentRoot": "C:\\code\\Reactivities\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "vite.svg",
       "AssetKind": "All",
