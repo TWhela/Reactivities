@@ -1,7 +1,7 @@
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 
-name: Build and deploy ASP.Net Core app to Azure Web App - amreactivities
+name: Build and deploy ASP.Net Core app to Azure Web App - EventPlanner007
 
 on:
   push:
@@ -34,6 +34,19 @@ jobs:
           name: .net-app
           path: ${{env.DOTNET_ROOT}}/myapp
 
+      - name: set up node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+        
+      - name: Install Node.js dependencies
+        run: npm install
+        working-directory: client-app
+
+      - name: Build Node.js front-end
+        run: npm run build
+        working-directory: client-app
+    
   deploy:
     runs-on: windows-latest
     needs: build
@@ -51,7 +64,7 @@ jobs:
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
-          app-name: 'amreactivities'
+          app-name: 'EventPlanner007'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54804B6C60014F9A919729C732EDA2AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_298820EBABD5473E8E8D1A06360C67D7 }}
           package: .
